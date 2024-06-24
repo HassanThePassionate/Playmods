@@ -16,7 +16,7 @@ const GameDes = () => {
         Garten of Banban 7 Mod APK
       </h1>
       <p className='text-sm mb-4 text-[#656570]'>
-        In the Garten of Banban 7 Mod APK, you must survive in Banban's
+        In the Garten of Banban 7 Mod APK, you must survive in Banban&apos;s
         Kindergarten, a scary place. Monsters and secrets abound in this place.
         Finding your kid and discovering what happened there are your biggest
         challenges. There is something tense about being alone this time. You
@@ -47,7 +47,7 @@ const GameDes = () => {
             in the spine-tingling world of Garden of Banban 7 APK. A unique
             blend of horror and creativity, this title, developed by Euphoric
             Brothers Games, sets new standards for horror gaming. For Android
-            users seeking a thrilling gaming experience through Banban's garden,
+            users seeking a thrilling gaming experience through Banban&apos;s garden,
             Garden of Banban 7 offers a deep narrative and immersive environment
             that make it well worth downloading.
           </p>
@@ -73,7 +73,7 @@ const GameDes = () => {
           </p>
           <p className='text-sm mb-4 text-[#656570]'>
             As you explore the kindergarten in single-player mode, you will find
-            horrors lurking around every corner. You'll be tested on your nerves
+            horrors lurking around every corner. You&apos;ll be tested on your nerves
             and determination as you explore, solve puzzles, and experience
             psychological horrors. In terms of gameplay and setting, the game
             was well received, making it an interesting addition to the horror
@@ -102,7 +102,7 @@ const GameDes = () => {
           <h3 className='text-[19px] mb-2 '>Community</h3>
           <p className='text-sm mb-4 text-[#656570]'>
             Crafting and trading enable players to interact and support one
-            another, which is one of the game's strongest features. The gameplay
+            another, which is one of the game&apos;s strongest features. The gameplay
             is enhanced by these features, as well as there is a bustling
             economy within the game. It promotes a vibrant player-based market
             by allowing players to craft unique items or trade resources
@@ -110,14 +110,14 @@ const GameDes = () => {
           <h3 className='text-[19px] mb-2 '>Different Events</h3>
           <p className='text-sm mb-4 text-[#656570]'>
             Garden of Banban 7 APK features seasonal events that engage the
-            community. With these events, the game's dynamic is revitalized and
+            community. With these events, the game&apos;s dynamic is revitalized and
             the community is engaged for a shorter period of time. There is a
             sense of ongoing excitement and anticipation within the game when
             players celebrate in-game holidays or participate in special quests.
           </p>
           <p className='text-sm mb-4 text-[#656570]'>
             Throughout Garten of Banban 7 Mod APK, social interactions play an
-            important role. As a result of the game's design, players are
+            important role. As a result of the game&apos;s design, players are
             encouraged to collaborate, compete, and connect with each other,
             fostering a vibrant community. It is crucial to maintain a dynamic
             and active community that players are able to build relationships
@@ -127,8 +127,8 @@ const GameDes = () => {
           <p className='text-sm mb-4 text-[#656570]'>
             You can upgrade your drones in the game, which is very helpful. You
             can see things in the dark with this drone buddy, and you can get to
-            places you couldn't reach before thanks to these upgrades. You can
-            also discover secrets and items with a drone that you wouldn't
+            places you couldn&apos;t reach before thanks to these upgrades. You can
+            also discover secrets and items with a drone that you wouldn&apos;t
             otherwise be able to see. There will always be scary moments in the
             story, but you can get a boost of confidence to face the darkness by
             buying a better drone.
@@ -156,7 +156,7 @@ const GameDes = () => {
           </p>
           <h3 className='text-[19px] mb-2 '>Challenge and Rewards</h3>
           <p className='text-sm mb-4 text-[#656570]'>
-            With dynamic gameplay mechanics, this game tests players' strategy
+            With dynamic gameplay mechanics, this game tests player&apos;s strategy
             and reflexes. A variety of obstacles and enemies are introduced in
             the game, which require players to think creatively and act quickly.
             Players can experience a satisfying blend of thrills and challenges
@@ -178,7 +178,7 @@ const GameDes = () => {
             <strong>Question 2:</strong> Who is the pink character in Banban?
           </h4>
           <p className='text-sm text-[#656570] mb-4'>
-            <strong>Answer:</strong> In Gametoons' Garden of Banban, Pink
+            <strong>Answer:</strong> In Gametoon&apos;s Garden of Banban, Pink
             Banbaleena was once Banbaleena, but her colors are missing?
           </p>
           <h4 className='text-sm text-[#656570]'>
@@ -198,9 +198,9 @@ const GameDes = () => {
             It sets new standards for horror games on mobile, as well as
             standing out in its genre. This game offers you a compelling blend
             of story, aesthetics, and a community-centered experience that is
-            like no other. Discover why Banban's garden is a must-have for
+            like no other. Discover why Banban&apos;s garden is a must-have for
             horror and adventure fans alike, and step into the shadows and
-            sounds of Banban's garden.
+            sounds of Banban&apos;s garden.
             <br /> ——Uploaded by the user
           </p>
           <h5 className='font-bold mb-2 mt-4'>Additional Information</h5>
